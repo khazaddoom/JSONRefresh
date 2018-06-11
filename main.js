@@ -1,5 +1,5 @@
- 
-var jsonObject = {
+
+/* var jsonObject = {
     "Name" : "Ganesh S Acharya",
     "Age" : 31,
 };
@@ -12,3 +12,10 @@ function logging() {
 }
 
 setTimeout(logging, 1000);
+ */
+
+ var person = {
+     Name: "Ganesh"
+ };
+
+console.log(person);
